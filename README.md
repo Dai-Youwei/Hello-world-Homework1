@@ -1,2 +1,2 @@
 # Hello-world-Homework1
-This is the first homework.
+在Main函数最后调用ResetColor函数重置背景颜色。
